@@ -238,3 +238,6 @@ This repository serves as the official landing page for Aqualung. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Aqualung today!**
+
+---
+**Last updated:** 2026-09-07 21:55:27 UTC
