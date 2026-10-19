@@ -240,4 +240,4 @@ This repository serves as the official landing page for Aqualung. The software i
 **Get the most recent version of Aqualung today!**
 
 ---
-**Last updated:** 2026-10-19 19:04:06 UTC
+**Last updated:** 2026-10-19 23:22:23 UTC
